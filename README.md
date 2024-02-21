@@ -1,3 +1,3 @@
 # French Helper
 
-This will help me learn french.
+This helps me learn french.
